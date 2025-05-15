@@ -38,7 +38,7 @@ Wait for the ZIP file to download.
 Find your downloaded ZIP file in the result folder.
 
 How to use the downloaded Manifest files
-Download and install Steam Tools from https://steamtools.org/.
+Download and install Steam Tools from https://www.steamtools.net/
 
 Open Steam Tools.
 
